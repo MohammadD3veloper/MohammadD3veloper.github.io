@@ -1,0 +1,16 @@
+body{
+    text-align: right !important;
+}
+.navbar-dark{
+    direction: rtl;
+}
+.display-2{direction: rtl;}
+.lead{direction: rtl;}
+
+.icon{
+    font-size: 40px;
+}
+.footer{
+    height: 40px;
+    width: 100%;
+}
