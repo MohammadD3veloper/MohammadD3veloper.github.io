@@ -1,4 +1,20 @@
+.telegram {
+    color: rgb(94, 164, 255);
+}
+.gmail {
+    color: rgb(231, 66, 66);
+}
+.linkedin {
+    color: rgb(52, 52, 255);
+}
+.reddit {
+    color: rgb(255, 36, 36);
+}
 
+.rtl {
+    direction: rtl;
+    text-align: right;
+}
 .icon{
     font-size: 40px;
 }
